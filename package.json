@@ -1,0 +1,17 @@
+{
+  "name": "bedrock-angular-jsonld",
+  "version": "0.0.1-0",
+  "description": "Bedrock AngularJS JSON-LD support.",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "~1.6.4",
+    "jsonld": "~0.4.2"
+  },
+  "bedrock": {
+    "browserDependencies": "all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-angular-jsonld"
+  }
+}
