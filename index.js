@@ -10,7 +10,7 @@
 import angular from 'angular';
 import jsonld from 'jsonld';
 
-const module = angular.module('bedrock.jsonld');
+const module = angular.module('bedrock.jsonld', []);
 
 /* @ngInject */
 module.run(config => {
