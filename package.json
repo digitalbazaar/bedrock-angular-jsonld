@@ -4,7 +4,7 @@
   "description": "Bedrock AngularJS JSON-LD support.",
   "main": "index.js",
   "dependencies": {
-    "angular": "~1.6.4",
+    "bedrock-angular": "^4.0.0",
     "jsonld": "~0.4.2"
   },
   "bedrock": {
