@@ -1,5 +1,10 @@
 # bedrock-angular ChangeLog
 
+## 2.0.0 - 2017-12-08
+
+### Changed
+- ***BREAKING*** Use jsonld 0.5.x.
+
 ## 1.0.3 - 2017-12-08
 
 ### Fixed
