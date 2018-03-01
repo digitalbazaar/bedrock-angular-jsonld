@@ -1,5 +1,7 @@
 # bedrock-angular ChangeLog
 
+## 2.1.0 - 2018-03-01
+
 ### Changed
 - Update jsonld to 1.0.0.
 
