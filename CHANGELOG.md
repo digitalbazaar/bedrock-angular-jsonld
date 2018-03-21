@@ -1,5 +1,10 @@
 # bedrock-angular ChangeLog
 
+## 2.1.1 - 2018-03-21
+
+### Fixed
+- Add manifest override for jsonld.
+
 ## 2.1.0 - 2018-03-01
 
 ### Changed
