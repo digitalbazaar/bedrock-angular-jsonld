@@ -8,7 +8,12 @@
     "jsonld": "^1.0.0"
   },
   "bedrock": {
-    "browserDependencies": "all"
+    "browserDependencies": "all",
+    "manifest": {
+      "jsonld": {
+        "main": "dist/jsonld.min.js"
+      }
+    }
   },
   "repository": {
     "type": "git",
