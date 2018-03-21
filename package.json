@@ -1,6 +1,6 @@
 {
   "name": "bedrock-angular-jsonld",
-  "version": "2.1.1",
+  "version": "2.1.2-0",
   "description": "Bedrock AngularJS JSON-LD support.",
   "main": "index.js",
   "dependencies": {
